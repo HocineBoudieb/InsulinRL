@@ -1,4 +1,4 @@
-+++ 
+
 # Project Summary: Diabetes Management in Type 1 Diabetic Patients
 
 ## Introduction
@@ -32,8 +32,8 @@ Key features of SimGlucose include:
 
 To use SimGlucose, you can integrate it into your reinforcement learning pipeline to train models for optimizing glycemic control in Type 1 diabetic patients.
 
-## RL PPO Environment Design for Optimizing Insulin Levels in Type 1 Diabetics
-Following the glycemic control simulation in Type 1 diabetic patients, an environment based on the Proximal Policy Optimization (PPO) algorithm was built to train a model to optimize glycemic control by adjusting administered insulin levels.
+## RL Actor Critic Environment Design for Optimizing Insulin Levels in Type 1 Diabetics
+Following the glycemic control simulation in Type 1 diabetic patients, an environment based on the Actor Critic algorithm was built to train a model to optimize glycemic control by adjusting administered insulin levels.
 
 ## Conclusion
 The project represents a significant advancement in the autonomous management of diabetes, allowing for real-time, personalized adjustments to a patient's physiology with the goal of maintaining optimal glycemic control without constant human intervention.
